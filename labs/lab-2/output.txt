@@ -1,0 +1,214 @@
+finish: 100
+counter: 1
+start: 
+down
+counter: 2	x: 0	 y: 0
+down
+counter: 3	x: 0	 y: 1
+down
+counter: 4	x: 0	 y: 2
+down
+counter: 5	x: 0	 y: 3
+down
+counter: 6	x: 0	 y: 4
+down
+counter: 7	x: 0	 y: 5
+down
+counter: 8	x: 0	 y: 6
+down
+counter: 9	x: 0	 y: 7
+down
+counter: 10	x: 0	 y: 8
+right
+counter: 11	x: 0	 y: 9
+right
+counter: 12	x: 1	 y: 9
+right
+counter: 13	x: 2	 y: 9
+right
+counter: 14	x: 3	 y: 9
+right
+counter: 15	x: 4	 y: 9
+right
+counter: 16	x: 5	 y: 9
+right
+counter: 17	x: 6	 y: 9
+right
+counter: 18	x: 7	 y: 9
+right
+counter: 19	x: 8	 y: 9
+up
+counter: 20	x: 9	 y: 9
+up
+counter: 21	x: 9	 y: 8
+up
+counter: 22	x: 9	 y: 7
+up
+counter: 23	x: 9	 y: 6
+up
+counter: 24	x: 9	 y: 5
+up
+counter: 25	x: 9	 y: 4
+up
+counter: 26	x: 9	 y: 3
+up
+counter: 27	x: 9	 y: 2
+up
+counter: 28	x: 9	 y: 1
+left
+counter: 29	x: 9	 y: 0
+left
+counter: 30	x: 8	 y: 0
+left
+counter: 31	x: 7	 y: 0
+left
+counter: 32	x: 6	 y: 0
+left
+counter: 33	x: 5	 y: 0
+left
+counter: 34	x: 4	 y: 0
+left
+counter: 35	x: 3	 y: 0
+left
+counter: 36	x: 2	 y: 0
+counter: 36
+counter: 36
+start: 
+down
+counter: 37	x: 1	 y: 0
+down
+counter: 38	x: 1	 y: 1
+down
+counter: 39	x: 1	 y: 2
+down
+counter: 40	x: 1	 y: 3
+down
+counter: 41	x: 1	 y: 4
+down
+counter: 42	x: 1	 y: 5
+down
+counter: 43	x: 1	 y: 6
+down
+counter: 44	x: 1	 y: 7
+right
+counter: 45	x: 1	 y: 8
+right
+counter: 46	x: 2	 y: 8
+right
+counter: 47	x: 3	 y: 8
+right
+counter: 48	x: 4	 y: 8
+right
+counter: 49	x: 5	 y: 8
+right
+counter: 50	x: 6	 y: 8
+right
+counter: 51	x: 7	 y: 8
+up
+counter: 52	x: 8	 y: 8
+up
+counter: 53	x: 8	 y: 7
+up
+counter: 54	x: 8	 y: 6
+up
+counter: 55	x: 8	 y: 5
+up
+counter: 56	x: 8	 y: 4
+up
+counter: 57	x: 8	 y: 3
+up
+counter: 58	x: 8	 y: 2
+left
+counter: 59	x: 8	 y: 1
+left
+counter: 60	x: 7	 y: 1
+left
+counter: 61	x: 6	 y: 1
+left
+counter: 62	x: 5	 y: 1
+left
+counter: 63	x: 4	 y: 1
+left
+counter: 64	x: 3	 y: 1
+counter: 64
+counter: 64
+start: 
+down
+counter: 65	x: 2	 y: 1
+down
+counter: 66	x: 2	 y: 2
+down
+counter: 67	x: 2	 y: 3
+down
+counter: 68	x: 2	 y: 4
+down
+counter: 69	x: 2	 y: 5
+down
+counter: 70	x: 2	 y: 6
+right
+counter: 71	x: 2	 y: 7
+right
+counter: 72	x: 3	 y: 7
+right
+counter: 73	x: 4	 y: 7
+right
+counter: 74	x: 5	 y: 7
+right
+counter: 75	x: 6	 y: 7
+up
+counter: 76	x: 7	 y: 7
+up
+counter: 77	x: 7	 y: 6
+up
+counter: 78	x: 7	 y: 5
+up
+counter: 79	x: 7	 y: 4
+up
+counter: 80	x: 7	 y: 3
+left
+counter: 81	x: 7	 y: 2
+left
+counter: 82	x: 6	 y: 2
+left
+counter: 83	x: 5	 y: 2
+left
+counter: 84	x: 4	 y: 2
+counter: 84
+counter: 84
+start: 
+down
+counter: 85	x: 3	 y: 2
+down
+counter: 86	x: 3	 y: 3
+down
+counter: 87	x: 3	 y: 4
+down
+counter: 88	x: 3	 y: 5
+right
+counter: 89	x: 3	 y: 6
+right
+counter: 90	x: 4	 y: 6
+right
+counter: 91	x: 5	 y: 6
+up
+counter: 92	x: 6	 y: 6
+up
+counter: 93	x: 6	 y: 5
+up
+counter: 94	x: 6	 y: 4
+left
+counter: 95	x: 6	 y: 3
+left
+counter: 96	x: 5	 y: 3
+counter: 96
+counter: 96
+start: 
+down
+counter: 97	x: 4	 y: 3
+down
+counter: 98	x: 4	 y: 4
+right
+counter: 99	x: 4	 y: 5
+up
+counter: 100	x: 5	 y: 5
+counter: 100

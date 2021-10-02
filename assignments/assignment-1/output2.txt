@@ -1,0 +1,8 @@
+input2.txt output2.txt
+         a         b         c    root 1    root 2             message
+----------------------------------------------------------------------
+        -0         1         0                             No solution
+       1.2         5         0  -4.16667         0
+        -2        -3         0        -0      -1.5
+         0         0         0                             No solution
+         0         0         0                     Data error on input

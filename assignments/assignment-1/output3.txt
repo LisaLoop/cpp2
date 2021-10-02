@@ -1,0 +1,8 @@
+input3.txt output3.txt
+         a         b         c    root 1    root 2             message
+----------------------------------------------------------------------
+     0.002       0.2      -1.7  -107.879   7.87919
+     0.002         0      -1.7  -29.1548   29.1548
+        -2        -3        -4                           Complex roots
+         0        -2      8.85                             No solution
+         0         0         0                     Data error on input

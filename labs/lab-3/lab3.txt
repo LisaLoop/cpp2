@@ -1,0 +1,51 @@
+First, work out the answers to the following questions YOURSELF. Then get in groups of two or three to
+check your answers, and work out any disagreements. Try to reason out the answers to these BEFORE
+writing code to test them. Then write a test program to verify your group's conclusions. If the program
+shows you that your conclusions are wrong, work out why as a group. If you can't figure out why, ask me.
+Your program will not be able to actually test everything here, as some operations are illegal (do not
+compile), and some compile but do not work.
+Consider these legal C++ declarations:
+
+char str[100] = "This is a simple C-string";
+const char *pstr = "This is a declaration of a pointer to a C-string";
+char *qstr = const_cast<char *>(pstr);
+char *rstr = str;
+
+
+For each of the following questions, start over at the original declarations and values given above.
+Can we change:
+str[10] to a new value?
+- yes, as long as that new value is also a char. 
+- If you changed str[10] = 0 the output would be "This is a0simple C-string"
+
+pstr[10] to a new value?
+- No, because it's declared as a constant.
+
+pstr to a different string? 
+- No, because it was declared as a constant.
+
+str to a different string? // these last two questions are a bit tricky – think how you can interpret them
+If so, how, and if not, why not?
+- Yes, we can. By reassigning the value to a new string.
+- str = "some other string";
+
+If we change pstr to point to a different string:
+pstr = "Hello";
+what happens to qstr? Will qstr then point to the old string or the new string?
+- We can change the address in memory where pstr points to another address. 
+- qstr points to pstr, which points to the string "This is a declaration of a pointer to a C-string".
+- if the place in memory changes for one of them it will change
+    the place in memory for both of them because of the pointers.
+
+
+Can we assign str = "Goodbye";
+Why or why not?
+If we change rstr[5], what happens to str?
+If we change str[10], what happens to rstr?
+What happens if you print pstr, *pstr, or (void *)pstr?
+
+Then (AFTER agreeing on your answers), using str-ptr.cpp as a guide, print out the addresses of the
+variables and the data they point to, and try these things in the program.
+What conclusions can you draw from the results? Particularly, can you work out why things do not
+work? If you have any questions, show me your code and the conclusions you have drawn from it. If you
+have trouble, ask me after you have tried it in code.

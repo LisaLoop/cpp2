@@ -1,0 +1,74 @@
+1. -------------------------------------
+Can we change str[10] to a new value?
+Yes, we can as long as that new value is also a char. 
+Result: If you change str[10] = 0 the output is 
+This is a 0imple C-string
+---------------------------------------
+
+2. -------------------------------------
+pstr[10] to a new value ?
+No, because it's declared as a constant.
+result: error: read-only variable is not assignable
+---------------------------------------
+
+3. ---------------------------------------
+Can we change pstr to a different string ?
+Expected: No, because it was declared as a constant. (we were wrong)
+result: We can change the entire string, but we can't
+change a piece of the existing string
+---------------------------------------
+
+4. ---------------------------------------
+Can we change str to a different string?
+str = some other string' doesn't work.
+The error is error: array type 'char [100]' is not assignable
+
+5. ---------------------------------------
+If we change pstr to point to a different string: pstr = 'Hello';
+What happens to qstr? Will qstr then point to the old
+string or the new string?
+Expected: qstr will point to the old string
+This is a declaration of a pointer to a C-string
+Result: Correct!
+This is a declaration of a pointer to a C-string
+---------------------------------------
+
+6. ---------------------------------------
+Can we assign str = 'Goodbye'? Why or why not?
+Expected: Yes, we can it wasn't declared as a const.
+when we declare an array it will normally be a const.
+Result: error: array type char [100] is not assignable
+---------------------------------------
+
+7. ---------------------------------------
+If we change rstr[5], what happens to str?
+Expected: Yes, it's going to change str[5] too.
+Result: We were correct!
+Z
+---------------------------------------
+
+8. ---------------------------------------
+If we change str[10], what happens to rstr?
+Expected : It will also change.
+Result: We were correct! 
+This Zs a 0imple C-string
+This Zs a Zimple C-string
+---------------------------------------
+
+9. ---------------------------------------
+What happens if you print pstr, *pstr, or (void *)pstr?
+pstr - 
+Expected: It's going to print the string: 
+Hello
+Result: We were right! 
+*pstr -:
+Expected: The address in memory of the base of the pstr array
+Result: T - It gives us the value stored at the start of the array pstr
+(void *) pstr
+Expected : The address of the pointer Result : 0x10466ef24(Some address)
+Result: We were right!
+Hello
+H
+0x1048cab80
+---------------------------------------
+

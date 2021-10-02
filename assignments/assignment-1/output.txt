@@ -1,0 +1,1 @@
+you are getting values from input.txt and printing them to output.txt file

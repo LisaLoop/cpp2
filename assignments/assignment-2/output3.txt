@@ -1,0 +1,70 @@
+the secret of a good old age is simply an honorable pact with solitude.
+he soon acquired the forlorn look that one sees in vegetarians.
+on rainy afternoons embroidering with a group of friends on the begonia porch
+she would lose the thread of the conversation and a tear of nostalgia
+would salt her palate when she saw the strips of damp earth and the
+piles of mud that the earthworms had pushed up in the garden.
+
+ Word counts
+--------------------------------------
+         the              9
+      secret              1
+          of              6
+           a              3
+        good              1
+         old              1
+         age              1
+          is              1
+      simply              1
+          an              1
+   honorable              1
+        pact              1
+        with              2
+    solitude              1
+          he              1
+        soon              1
+    acquired              1
+     forlorn              1
+        look              1
+        that              2
+         one              1
+        sees              1
+          in              2
+ vegetarians              1
+          on              2
+       rainy              1
+  afternoons              1
+embroidering              1
+       group              1
+     friends              1
+     begonia              1
+       porch              1
+         she              2
+       would              2
+        lose              1
+      thread              1
+conversation              1
+         and              2
+        tear              1
+   nostalgia              1
+        salt              1
+         her              1
+      palate              1
+        when              1
+         saw              1
+      strips              1
+        damp              1
+       earth              1
+       piles              1
+         mud              1
+  earthworms              1
+         had              1
+      pushed              1
+          up              1
+      garden              1
+
+total word count:       77
+number of unique words: 55
+shortest word is:       a
+longest word is:        conversation
+number of lines is:     6
