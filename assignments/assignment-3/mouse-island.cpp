@@ -6,6 +6,7 @@
 // A program that does something
 #include <iostream>
 #include <fstream>
+#include <string>
 using namespace std;
 /*
 
@@ -34,22 +35,33 @@ close files
 
 */
 
-int **makeIslandMap()
-{
-}
-
 int main(int argc, char *argv[])
 {
 
-    char *seedRule = nullptr;
+    char *seed;
     if (argc < 2)
     {
         cout << "Usage: " << argv[0] << " <input> <output> [<seed>]" << endl;
+        cout << "Enter either the seed value or the string TIME" << endl;
+        cout << "to seed the random number generator using the" << endl;
+        cout << "current time." << endl;
         return 0;
     }
     if (argc == 3)
     {
-        seedRule = argv[3];
+        seed = argv[3];
+    }
+    if (seed && strcmp(seed, "TIME") == 0)
+    {
+        srand(time(0));
+    }
+    else if (seed)
+    {
+        int s = stoi(seed,nullptr,0);
+        srand(s);
+    } else
+    {
+        rand();
     }
 
     ifstream inputFile;
