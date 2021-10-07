@@ -13,6 +13,12 @@ strcmp return
 0	the contents of both strings are equal
 >0	the first character that does not match has a greater value in ptr1 than in ptr2
 
+exchange 
+strcpy
+strcmp
+strlen
+strtok
+strcat
 
 */
 int strCmp(char *str1, char *str2)
