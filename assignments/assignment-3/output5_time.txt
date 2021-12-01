@@ -1,0 +1,146 @@
+input5.txt output5_time.txt
+--------------------------------------------------
+seeded with time
+--------------------------------------------------
+Island map
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1  0 -1 -1 
+-1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1 
+-1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1 
+-1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+-1  0  0  0 -1 -1  0  0  0  0  0  0  0  0  0  0  0 -1 
+-1  0  0  0  0 -1  0  0  0  0  0  0  0  0  0  0  0 -1 
+-1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1 
+-1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1 
+-1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1 
+-1  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0 -1 
+-1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1 
+-1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1 
+-1  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0  0 -1 
+-1  0  0  0  0  0  0  0  0  0  0 -1 -1  0  0  0  0 -1 
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+--------------------------------------------------
+mouse initial position: (4, 9)
+--------------------------------------------------
+Mouse 1 tried to breathe underwater.
+Mouse 2 tried to breathe underwater.
+Mouse 3 tried to breathe underwater.
+Mouse 4 tried to breathe underwater.
+Mouse 5 tried to breathe underwater.
+Mouse 6 tried to breathe underwater.
+Mouse 7 tried to breathe underwater.
+Mouse 8 tried to breathe underwater.
+Mouse 9 tried to breathe underwater.
+Mouse 10 tried to breathe underwater.
+Mouse 11 tried to breathe underwater.
+Mouse 12 tried to breathe underwater.
+Mouse 13 tried to breathe underwater.
+Mouse 14 tried to breathe underwater.
+Mouse 15 tried to breathe underwater.
+Mouse 16 tried to breathe underwater.
+Mouse 17 tried to breathe underwater.
+Mouse 18 tried to breathe underwater.
+Mouse 19 is bereft of food and life.
+Mouse 20 tried to breathe underwater.
+Mouse 21 tried to breathe underwater.
+Mouse 22 tried to breathe underwater.
+Mouse 23 is bereft of food and life.
+Mouse 24 tried to breathe underwater.
+Mouse 25 tried to breathe underwater.
+Mouse 26 tried to breathe underwater.
+Mouse 27 tried to breathe underwater.
+Mouse 28 tried to breathe underwater.
+Mouse 29 tried to breathe underwater.
+Mouse 30 tried to breathe underwater.
+Mouse 31 tried to breathe underwater.
+Mouse 32 tried to breathe underwater.
+Mouse 33 tried to breathe underwater.
+Mouse 34 tried to breathe underwater.
+Mouse 35 tried to breathe underwater.
+Mouse 36 tried to breathe underwater.
+Mouse 37 tried to breathe underwater.
+Mouse 38 tried to breathe underwater.
+Mouse 39 tried to breathe underwater.
+Mouse 40 tried to breathe underwater.
+Mouse 41 tried to breathe underwater.
+Mouse 42 tried to breathe underwater.
+Mouse 43 tried to breathe underwater.
+Mouse 44 tried to breathe underwater.
+Mouse 45 tried to breathe underwater.
+Mouse 46 tried to breathe underwater.
+Mouse 47 tried to breathe underwater.
+Mouse 48 tried to breathe underwater.
+Mouse 49 tried to breathe underwater.
+Mouse 50 tried to breathe underwater.
+Mouse 51 tried to breathe underwater.
+Mouse 52 tried to breathe underwater.
+Mouse 53 tried to breathe underwater.
+Mouse 54 tried to breathe underwater.
+Mouse 55 tried to breathe underwater.
+Mouse 56 tried to breathe underwater.
+Mouse 57 tried to breathe underwater.
+Mouse 58 is bereft of food and life.
+Mouse 59 tried to breathe underwater.
+Mouse 60 tried to breathe underwater.
+Mouse 61 tried to breathe underwater.
+Mouse 62 escaped. Where will he go?
+Mouse 63 tried to breathe underwater.
+Mouse 64 tried to breathe underwater.
+Mouse 65 tried to breathe underwater.
+Mouse 66 is bereft of food and life.
+Mouse 67 tried to breathe underwater.
+Mouse 68 tried to breathe underwater.
+Mouse 69 tried to breathe underwater.
+Mouse 70 tried to breathe underwater.
+Mouse 71 tried to breathe underwater.
+Mouse 72 tried to breathe underwater.
+Mouse 73 tried to breathe underwater.
+Mouse 74 tried to breathe underwater.
+Mouse 75 tried to breathe underwater.
+Mouse 76 tried to breathe underwater.
+Mouse 77 tried to breathe underwater.
+Mouse 78 tried to breathe underwater.
+Mouse 79 tried to breathe underwater.
+Mouse 80 tried to breathe underwater.
+Mouse 81 tried to breathe underwater.
+Mouse 82 tried to breathe underwater.
+Mouse 83 tried to breathe underwater.
+Mouse 84 tried to breathe underwater.
+Mouse 85 tried to breathe underwater.
+Mouse 86 tried to breathe underwater.
+Mouse 87 tried to breathe underwater.
+Mouse 88 tried to breathe underwater.
+Mouse 89 tried to breathe underwater.
+Mouse 90 tried to breathe underwater.
+Mouse 91 tried to breathe underwater.
+Mouse 92 tried to breathe underwater.
+Mouse 93 tried to breathe underwater.
+Mouse 94 tried to breathe underwater.
+Mouse 95 tried to breathe underwater.
+Mouse 96 tried to breathe underwater.
+Mouse 97 tried to breathe underwater.
+Mouse 98 tried to breathe underwater.
+Mouse 99 tried to breathe underwater.
+Mouse 100 tried to breathe underwater.
+--------------------------------------------------
+Here's a summary of what happened for each life: 
+The mouse drowned 95 times.
+The mouse escaped the island 1 times.
+The mouse starved 4 times.
+--------------------------------------------------
+Map of mouse move counts
+  0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0 
+  0   0   1   0   0   0   0   0   0   0   2   0   0   0   0   1   0   0 
+  0   2   3   1   0   0   0   1   2   3   2   0   0   0   0   2   1   0 
+  4   4   6   6   1   0   2   4   7   5   1   0   0   0   0   1   1   1 
+  1   5  11   8   0   0   4   7   4   2   1   1   0   0   1   3   1   0 
+  2   6   7   7  11  14   9   9   8   6   1   2   0   0   1   1   0   0 
+  3  15  12  18  31  29  21  13  16   8   2   3   2   1   1   1   0   0 
+  7  23  33  59  71  53  31  23  23  14   4   3   5   4   4   4   1   0 
+  4  25  68 114 143  95  49  21  21  15   8   6   9   5   7   5   1   1 
+  5  27  66 112 127 117  54  27  31  26  17  10  10   7   9   3   2   0 
+  8  28  57  90 126  95  62  29  28  36  29  14  11   9   8   3   3   1 
+  5  16  32  58  79  75  54  37  32  24  18   6  11  10   4   1   0   0 
+  4  12  18  34  39  47  33  22  26  19   8   3   2   3   2   0   0   0 
+  2   8   5  13  13  18  23  18  12   8   5   1   0   1   0   0   0   0 
+  0   2   1   5   2   2   6   5   3   1   0   0   0   1   0   0   0   0 
+--------------------------------------------------

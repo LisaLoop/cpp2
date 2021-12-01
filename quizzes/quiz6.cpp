@@ -9,7 +9,7 @@ positive, seed with the value. You may print just the random number, without any
 Include everything the program needs to compile and run, but no comments.
 
 */
-#include<iostream>
+#include <iostream>
 #include <ctime>
 #include <cstdlib>
 using namespace std;

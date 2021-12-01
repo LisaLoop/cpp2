@@ -1,0 +1,156 @@
+input4.txt output4_noseed.txt
+--------------------------------------------------
+no seed provided
+--------------------------------------------------
+Island map
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+-1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1 
+-1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1 
+-1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1 
+-1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1 
+-1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1 
+-1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1 
+-1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+-1  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0 -1 
+-1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1 
+-1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1 
+-1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1 
+-1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1 
+-1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1 
+-1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+-1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1 
+-1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1 
+-1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1 
+-1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1 
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+--------------------------------------------------
+mouse initial position: (11, 8)
+--------------------------------------------------
+Mouse 1 tried to breathe underwater.
+Mouse 2 tried to breathe underwater.
+Mouse 3 tried to breathe underwater.
+Mouse 4 tried to breathe underwater.
+Mouse 5 tried to breathe underwater.
+Mouse 6 tried to breathe underwater.
+Mouse 7 is bereft of food and life.
+Mouse 8 tried to breathe underwater.
+Mouse 9 is bereft of food and life.
+Mouse 10 is bereft of food and life.
+Mouse 11 is bereft of food and life.
+Mouse 12 tried to breathe underwater.
+Mouse 13 tried to breathe underwater.
+Mouse 14 tried to breathe underwater.
+Mouse 15 tried to breathe underwater.
+Mouse 16 is bereft of food and life.
+Mouse 17 is bereft of food and life.
+Mouse 18 tried to breathe underwater.
+Mouse 19 tried to breathe underwater.
+Mouse 20 is bereft of food and life.
+Mouse 21 is bereft of food and life.
+Mouse 22 is bereft of food and life.
+Mouse 23 is bereft of food and life.
+Mouse 24 tried to breathe underwater.
+Mouse 25 tried to breathe underwater.
+Mouse 26 tried to breathe underwater.
+Mouse 27 is bereft of food and life.
+Mouse 28 tried to breathe underwater.
+Mouse 29 is bereft of food and life.
+Mouse 30 is bereft of food and life.
+Mouse 31 tried to breathe underwater.
+Mouse 32 tried to breathe underwater.
+Mouse 33 tried to breathe underwater.
+Mouse 34 tried to breathe underwater.
+Mouse 35 is bereft of food and life.
+Mouse 36 tried to breathe underwater.
+Mouse 37 tried to breathe underwater.
+Mouse 38 is bereft of food and life.
+Mouse 39 is bereft of food and life.
+Mouse 40 is bereft of food and life.
+Mouse 41 is bereft of food and life.
+Mouse 42 tried to breathe underwater.
+Mouse 43 is bereft of food and life.
+Mouse 44 tried to breathe underwater.
+Mouse 45 tried to breathe underwater.
+Mouse 46 is bereft of food and life.
+Mouse 47 is bereft of food and life.
+Mouse 48 is bereft of food and life.
+Mouse 49 tried to breathe underwater.
+Mouse 50 tried to breathe underwater.
+Mouse 51 is bereft of food and life.
+Mouse 52 is bereft of food and life.
+Mouse 53 tried to breathe underwater.
+Mouse 54 tried to breathe underwater.
+Mouse 55 tried to breathe underwater.
+Mouse 56 tried to breathe underwater.
+Mouse 57 tried to breathe underwater.
+Mouse 58 tried to breathe underwater.
+Mouse 59 is bereft of food and life.
+Mouse 60 is bereft of food and life.
+Mouse 61 tried to breathe underwater.
+Mouse 62 is bereft of food and life.
+Mouse 63 is bereft of food and life.
+Mouse 64 is bereft of food and life.
+Mouse 65 tried to breathe underwater.
+Mouse 66 tried to breathe underwater.
+Mouse 67 is bereft of food and life.
+Mouse 68 tried to breathe underwater.
+Mouse 69 is bereft of food and life.
+Mouse 70 escaped. Where will he go?
+Mouse 71 tried to breathe underwater.
+Mouse 72 tried to breathe underwater.
+Mouse 73 escaped. Where will he go?
+Mouse 74 is bereft of food and life.
+Mouse 75 is bereft of food and life.
+Mouse 76 tried to breathe underwater.
+Mouse 77 tried to breathe underwater.
+Mouse 78 is bereft of food and life.
+Mouse 79 is bereft of food and life.
+Mouse 80 tried to breathe underwater.
+Mouse 81 tried to breathe underwater.
+Mouse 82 is bereft of food and life.
+Mouse 83 tried to breathe underwater.
+Mouse 84 tried to breathe underwater.
+Mouse 85 is bereft of food and life.
+Mouse 86 is bereft of food and life.
+Mouse 87 tried to breathe underwater.
+Mouse 88 tried to breathe underwater.
+Mouse 89 is bereft of food and life.
+Mouse 90 tried to breathe underwater.
+Mouse 91 tried to breathe underwater.
+Mouse 92 tried to breathe underwater.
+Mouse 93 tried to breathe underwater.
+Mouse 94 tried to breathe underwater.
+Mouse 95 is bereft of food and life.
+Mouse 96 is bereft of food and life.
+Mouse 97 tried to breathe underwater.
+Mouse 98 is bereft of food and life.
+Mouse 99 tried to breathe underwater.
+Mouse 100 tried to breathe underwater.
+--------------------------------------------------
+Here's a summary of what happened for each life: 
+The mouse drowned 56 times.
+The mouse escaped the island 2 times.
+The mouse starved 42 times.
+--------------------------------------------------
+Map of mouse move counts
+  0   1   0   2   1   1   2   2   6   0   3   2   3   2   1   0   2   3   1   0 
+  0   3   4   6   9   9  11  11  16  11   8   9  15  14   7   2   2   4   2   0 
+  0   7  10  12  17  18  16  16  24  21  16  19  22  22  15   7   5   6   4   0 
+  1   4   7  12  17  22  20  23  31  26  18  17  10  17  20  14   9   5   3   0 
+  1   3   6  13  16  21  26  35  39  36  35  32  28  28  28  31  17  10   6   0 
+  1   3   8  13  22  27  32  49  65  54  60  55  47  56  37  35  19   7   6   1 
+  0   3   9  11  26  25  41  51  61  63  71  84  75  65  43  44  36  15   8   0 
+  2   2   5  14  31  31  44  62  69  70  94 120  91  68  45  37  43  26  10   2 
+  0   1   8  19  21  26  35  69  73  80 130 149 144  88  72  49  33  24   9   2 
+  0   0   4   7  11  19  24  40  65  73 107 126  97  65  52  44  29  25  10   1 
+  0   2   3  10  19  21  26  43  67  63  85  75  64  49  31  32  22  16   5   2 
+  0   2   4  12  16  16  29  53  60  57  60  47  40  33  19  17  13   8   4   0 
+  2   7   6  11  16  21  30  40  44  38  33  33  37  37  23  13   3   1   0   0 
+  0   5   3   5  10  12  19  19  24  27  29  28  22  26  19  10   5   1   0   0 
+  1   5   4   2   6  12  18  14  11  19  24  26  20  15   7   6   5   2   0   0 
+  0   0   0   1   1   4   4   5   8  16  21  30  24  15  11   7   2   3   0   0 
+  0   0   0   0   1   4   3   3   6   6   6  12   9   2   2   1   3   6   2   0 
+  0   0   0   1   4   6   4   7   5   3   6   8   6   2   1   0   2   2   1   1 
+  1   1   1   1   2   6   4   6   2   1   5   5   2   1   1   0   0   0   0   0 
+  0   0   0   0   0   2   1   0   0   0   1   1   1   1   1   0   0   0   0   0 
+--------------------------------------------------

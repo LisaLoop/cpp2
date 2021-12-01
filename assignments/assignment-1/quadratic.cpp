@@ -10,6 +10,7 @@
 
 #include <iostream>
 #include <fstream>
+#include <iomanip>
 using namespace std;
 
 int readLineFromFile(float &a, float &b, float &c, ifstream &inputFile)

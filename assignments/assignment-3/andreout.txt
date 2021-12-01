@@ -1,0 +1,420 @@
+Input file name: input5.txt
+Output file name: andreout.txt
+Rule of seeding: Without seeding.
+
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has starved to death!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has starved to death!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has starved to death!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has starved to death!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has starved to death!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has starved to death!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+Number of times that the mouse has drowned: 94
+Number of times that the mouse has starved to death: 6
+Number of times that the mouse has escaped: 0
+Original map: 
+ -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1   0  -1  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+ -1   0   0   0  -1  -1   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0  -1   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0  -1   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0  -1  -1   0   0   0   0  -1 
+ -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1 
+Counts of mouse movement map: 
+  0   0   0   0   0   1   0   1   0   0   0   0   0   1   0   0   0   0 
+  1   1   0   0   0   2   1   3   4   3   2   0   1   4   1   0   0   0 
+  1   4   2   1   0   3   6  10   8   5   6   1   0   3   3   3   2   1 
+  0   4   2   0   0   0   3  11  10  10  13   8   7   3   4   2   1   0 
+  1   4   4   2   5   4   9  25  21  16  15   5   6   3   3   0   0   0 
+  3   8   9  16  16  11  13  29  25  17   8   3   2   2   2   1   0   0 
+  6  13  29  36  38  36  31  30  21  17   3   2   4   4   3   1   1   1 
+  5  15  30  44  59  57  47  40  39  28  10   5   7   8   8   3   1   0 
+  5  21  43  70  97  66  63  39  34  30  18  11   5   4   1   0   0   0 
+  7  28  62 108  96  96  68  48  34  24  17  16   8   5   3   2   0   0 
+  4  30  65  92  84  70  49  28  20  18   9   9  10   8   2   2   0   0 
+  2  28  48  65  61  55  35  18  18  21  13   4  10  11   2   3   0   0 
+  4  23  34  45  35  29  17  13  13   7   5   1   1   2   2   2   0   0 
+  4   9  18  20  18  16   4   2   3   2   1   0   1   0   1   0   0   0 
+  0   0   7   3   6   5   2   0   0   1   0   0   0   0   0   0   0   0 
+-------------------------------------------------------------
+Input file name: input5.txt
+Output file name: andreout.txt
+Rule of seeding: Seeding with a fixed value.
+
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has starved to death!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has starved to death!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has starved to death!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has starved to death!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has starved to death!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has starved to death!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has starved to death!
+Number of times that the mouse has drowned: 93
+Number of times that the mouse has starved to death: 7
+Number of times that the mouse has escaped: 0
+Original map: 
+ -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1   0  -1  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+ -1   0   0   0  -1  -1   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0  -1   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0  -1   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0  -1  -1   0   0   0   0  -1 
+ -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1 
+Counts of mouse movement map: 
+  0   0   1   0   0   0   1   1   0   2   0   0   0   0   0   0   0   0 
+  0   3   1   0   0   0   1   1   2   4   0   1   1   1   2   2   1   0 
+  0   5   2   1   0   1   2   1   2   5   3   3   2   2   1   2   1   0 
+  0   4   5   6   0   1   3   6  10  12   7   4   2   3   1   1   0   0 
+  2   4   4   7   5   7  14  19  16  17   8   6   4   5   5   2   1   0 
+  2  11  16  22  19  12  16  26  21  15  11  12  13   9   6   2   2   0 
+  3  21  29  42  51  41  29  32  31  24  14  13   9   2   3   1   1   0 
+  5  26  38  46  81  66  50  50  41  34  19  14  13   8   5   0   1   1 
+ 13  38  57  78 137  85  82  77  47  25  13   5   5   4   5   1   0   0 
+  6  30  61 103 122 128  91  69  38  22  18   6   4   3   2   1   1   1 
+  3  13  34  63  98 101  68  54  32  22  22   6   3   2   0   0   0   0 
+  4   8  16  29  39  56  50  50  33  21  17   5   2   1   0   0   0   0 
+  2   4   8  17  25  27  23  26  23   9   6   2   0   0   0   0   0   0 
+  2   3   8   9   8   7   9  11  15   3   3   1   0   0   0   0   0   0 
+  0   0   2   1   2   0   3   3   4   2   0   0   0   0   0   0   0   0 
+-------------------------------------------------------------
+Input file name: input5.txt
+Output file name: andreout.txt
+Rule of seeding: Seeding with the system time.
+
+The mouse has drowned!
+The mouse has starved to death!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has starved to death!
+The mouse has starved to death!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has starved to death!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has starved to death!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has starved to death!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has starved to death!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has starved to death!
+The mouse has drowned!
+The mouse has starved to death!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has starved to death!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has starved to death!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+The mouse has drowned!
+Number of times that the mouse has drowned: 89
+Number of times that the mouse has starved to death: 11
+Number of times that the mouse has escaped: 0
+Original map: 
+ -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1   0  -1  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 
+ -1   0   0   0  -1  -1   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0  -1   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0  -1   0   0   0   0   0  -1 
+ -1   0   0   0   0   0   0   0   0   0   0  -1  -1   0   0   0   0  -1 
+ -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1 
+Counts of mouse movement map: 
+  0   0   0   0   0   0   0   1   0   0   0   1   0   0   0   0   0   0 
+  0   2   3   0   0   0   0   2   0   0   0   2   1   0   0   0   0   0 
+  1   3   5   0   0   1   2   4   2   2   5   8   7   1   1   0   0   0 
+  0   1   4   2   3   5   7   3   1   3  12   9  13   6   4   1   1   0 
+  3   4   6   7   9   2   7   5   9  11  16  11  15   7   4   2   0   0 
+  1   6  11  12  18  17  24  26  15  14  19  10   8   7   1   1   0   0 
+  1  10  27  29  49  34  45  32  16  18  23  17   3   7   2   0   0   0 
+  4  16  25  40  76  87  68  44  23  21  31  28  11   7   2   2   0   0 
+  7  28  43  59 110 125  94  61  32  28  27  27  19  19   7   3   2   2 
+  5  21  49  72  90 136 104  66  38  29  25  26  21  16   9   3   1   0 
+  2  15  37  61  91  86  78  51  41  32  23  23  19  11   3   0   0   0 
+  2   9  20  40  52  41  41  33  28  32  22  11   7   6   2   0   0   0 
+  1   5  11  16  17   9  17  20  17  21  10   4   1   0   0   0   0   0 
+  1   2   8   9   9   9  17  18  14  11   4   0   0   0   0   0   0   0 
+  0   1   3   3   1   2   4   3   4   3   1   0   0   0   0   0   0   0 
+-------------------------------------------------------------

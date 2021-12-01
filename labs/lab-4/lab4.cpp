@@ -6,9 +6,23 @@
 // 10/01/2021
 //
 // A program that makes sprials and prints them to an output file
+/*
+An int * is not an int **. Don't confuse them.
+An int ** would work if (and only if) you were using ragged arrays of ints.
+But then you can't then mimic the indexing into the array yourself as though the array was 2-dimensonal.
+The spec said to pass the bases in as int *, not as int **.
 
+
+int arr [10][5]
+
+int * arr[5]
+
+int ** arr
+
+*/
 #include <iostream>
 #include <fstream>
+#include <iomanip>
 using namespace std;
 
 // countDigits is a helper function that counts
@@ -58,53 +72,85 @@ void clearArray(int **matrix, int nRows, int nCols)
     }
 }
 
+
+/*
+const matrix = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9]
+];
+
+const matrix = [
+     1,  2,  3,  4,  5,  6,  7,
+     8,  9, 10, 11, 12, 13, 14,
+    15, 16, 17, 18, 19, 20, 21,
+    22, 23, 24, 25, 26, 27, 28,
+    29, 30, 31, 32, 33, 34, 35,
+    36, 37, 38, 39, 40, 41, 42,
+    43, 44, 45, 46, 47, 48, 49,
+];
+
+columnCount = 7;
+columnStart = 0;
+columnEnd = columnCount;
+
+
+rowCount = 7
+rowStart = 0
+rowEnd = rowCount
+
+while (!done) {
+    x = columnStart;
+    y = rowStart;
+    while (y < rowEnd) {
+        index = (y * columnCount) + x;
+        y += 1;
+    }
+    x += 1;
+    rowStart += 1;
+    rowEnd -= 1;
+}
+
+*/
 // makeSpiral takes a 2D array and the number of rows and
 // number of columns. It arranges the numbers to later 
 // print them in a counter-clockwise spiral pattern
-void makeSpiral(int **matrix, int nrows, int ncols)
+// void makeSpiral( int *p, int nRows, int nCols )
+void makeSpiral(int * matrix, int nrows, int ncols)
 {
-    int *mptr = &matrix[0][0];
-    int loop_count = 0;
-    int total = nrows * ncols;
+// total number of spaces to fill the spiral
+    int area = nrows * ncols; 
+// counter to fill the spiral with numbers
     int counter = 0;
-    while (counter < total)
+    int x = ncols;
+    int y = nrows;
+    int* ptr;
+    ptr = &matrix[0];
+    int intSize = 4;
+    
+    while(counter < area)
     {
+ // down (y)
+ // increment row
+        while(  > nrows )
+        {
+            // change direction
 
-        for (int i = 0; i < nrows; i++)
-        {
-            if (*(mptr + (ncols * i) + loop_count) == 0)
-            {
-                counter++;
-                *(mptr + (ncols * i) + loop_count) = counter;
-            }
+            // increment counter
         }
+ 
 
-        for (int i = 0; i < ncols; i++)
-        {
-            if (*(mptr + (ncols * (nrows - 1 - loop_count)) + i) == 0)
-            {
-                counter++;
-                *(mptr + (ncols * (nrows - 1 - loop_count)) + i) = counter;
-            }
-        }
-        for (int i = nrows; i > -1; --i)
-        {
-            if (*(mptr + (ncols * i) + (ncols - 1 - loop_count)) == 0)
-            {
-                counter++;
-                *(mptr + (ncols * i) + (ncols - 1 - loop_count)) = counter;
-            }
-        }
-        for (int i = ncols; i > -1; --i)
-        {
-            if (*(mptr + (ncols * loop_count) + i) == 0)
-            {
-                counter++;
-                *(mptr + (ncols * loop_count) + i) = counter;
-            }
-        }
-        loop_count++;
+
     }
+ // right 
+ // increment col
+
+ // up 
+ // decrement row
+
+ // left 
+ // decrement col
+
 }
 
 int main(int argc, char *argv[])

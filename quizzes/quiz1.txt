@@ -1,0 +1,19 @@
+size-t strlen(char* s)
+{
+    size-t i = 0;
+    while(*(s+i))
+    {
+
+    }
+}
+
+
+size-t strlen(char *s)
+{
+    char *p = s;
+    while(*p)
+    {
+        p++;
+    }
+    return p-s;
+}
