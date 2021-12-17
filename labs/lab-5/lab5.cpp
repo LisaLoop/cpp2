@@ -1,9 +1,18 @@
 
+/*
+operator<< should return out.
+operator++ should return *this rather than this.
+
+copy shouldn't be dynamically allocated.
+Otherwise there is a memory leak. Also new returns a pointer,
+so there is a type mismatch. Use Point copy = *this;
+
+*/
 // a) Overload the stream insertion operator as a friend function.
 // Output the Point object in the format (x,y) e.g. (3.4,5.6).
 // Here is a template for you to fill in:
 
-ostream & operator<< (ostream & out, const Point & p)
+ostream & operator<< (ostream & out, const Shape & p)
 
 {
 
@@ -11,11 +20,9 @@ ostream & operator<< (ostream & out, const Point & p)
 
 }
 
- 
-
 // b) Overload preincrement (Add 1 to x and add 1 to y, return the updated current object.)
 // Here is a template for you to fill in:
-Point & Point::operator++()
+Shape & Shape::operator++()
 
 {
     ++this.x;
@@ -28,11 +35,18 @@ Point & Point::operator++()
 
 // c) Overload post-increment. (Add 1 to x and add 1 to y,
 // return a copy of the original object before increment.)
-
-Point  Point::operator++(int dummy)
+/*
+person& operator=(const person& that)
+{
+    name = that.name;
+    age = that.age;
+    return *this;
+}
+*/
+Shape&  Shape::operator++(int dummy)
 
 {
- Point copy = new Point(this.x, this.y);
+ Shape copy = new Shape(this.x, this.y);
  this.x++;
  this.y++;
  return copy;
